@@ -86,7 +86,11 @@ Jupyter dashboard. The interface is similar, but they've made some improvements 
 
 To create the codespace, click the <> **Code** button and select the **Codespaces** tab.
 
-![Codespaces Creation](https://docs.github.com/assets/cb-138303/images/help/codespaces/new-codespace-button.png). This will launch a window that creates the codespace and builds the 
+<center>
+<img src="https://docs.github.com/assets/cb-138303/images/help/codespaces/new-codespace-button.png" width=400>
+</center>
+
+This will launch a window that creates the codespace and builds the development environment.
 
 Crucially, if you exit a codespace, it continues to run, and you will see the spaces
 listed when clicking on the <> **Code** button in the future. This will allow you
@@ -99,22 +103,30 @@ to your repository on Github. To do so, follow these instructions:
 
 1. Click on the "Source Control" tab in the Activity Bar on the left side:
 
-![Source Control](https://docs.github.com/assets/cb-59829/images/help/codespaces/source-control-activity-bar-button.png)
+<center>
+<img src="https://docs.github.com/assets/cb-59829/images/help/codespaces/source-control-activity-bar-button.png" width=200>
+</center>
 
-2. To stage your changes, click + next to the file you've changed, or next to Changes if you've changed multiple files and you want to stage them all.
+1. To stage your changes, click + next to the file you've changed, or next to Changes if you've changed multiple files and you want to stage them all.
 
-![Stage](https://docs.github.com/assets/cb-81383/images/help/codespaces/codespaces-commit-stage.png)
+<center>
+<img src="https://docs.github.com/assets/cb-81383/images/help/codespaces/codespaces-commit-stage.png" width=450>
+</center>
 
-3. Type a commit message describing the change you've made.
+1. Type a commit message describing the change you've made.
 
-![Commit message](https://docs.github.com/assets/cb-108645/images/help/codespaces/codespaces-commit-commit-message.png)
+<center>
+<img src="https://docs.github.com/assets/cb-108645/images/help/codespaces/codespaces-commit-commit-message.png" width=450/>
+</center>
 
 
-4. To commit your staged changes, click the check mark at the top the source control side bar.
+1. To commit your staged changes, click the check mark at the top the source control side bar.
 
-![](https://docs.github.com/assets/cb-65361/images/help/codespaces/codespaces-commit-checkmark-icon.png)
+<center>
+<img src="https://docs.github.com/assets/cb-65361/images/help/codespaces/codespaces-commit-checkmark-icon.png" width=450/>
+</center>
 
-5. Finally, you can push your committed changes back to Github to keep everything in sync by hitting the "Sync Changes" button.
+1. Finally, you can push your committed changes back to Github to keep everything in sync by hitting the "Sync Changes" button.
 
    
 ### Assignment Steps
