@@ -85,7 +85,7 @@ repository.
 
 The invitation link for this week is:
 
-
+https://classroom.github.com/a/5z9RCS2v
 
 If you do not have a GitHub account yet, you should be prompted to make an account. After clicking on this link, GitHub will create a new private repo with permissions such that only you and the instructors can view the commits.
 
@@ -99,4 +99,4 @@ Below are some references if you need help:
 
 **Important**: Files should be committed to the newly created private repository (after following the above link) and _not_ to your forked version of the [assignment-1](https://github.com/MUSA-550-Fall-2022/assignment-1) repository.
 
-**Your Jupyter notebook should be submitted to your private repository by the deadline, 7pm on 9/20.**
+**Your Jupyter notebook should be submitted to your private repository by the deadline, 7pm on 9/19.**
